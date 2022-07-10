@@ -5,6 +5,15 @@
  }
  /*
    = new Word("","",""),
+   = new Word("","",""),
+   = new Word("","",""),
+   = new Word("","",""),
+   
+   
+//   = new Word("","",""),
+//   = new Word("","",""),
+//   = new Word("","",""),
+//   = new Word("","",""),
  */
  
  var wordList = [
@@ -21,6 +30,15 @@
 //  passen = new Word("to fit","passen","dieser Anzug passt gut"),
 //  Sakko= new Word("suit jacket","Sakko",""),
 //  schade = new Word("too bad","schade","schade, dass du zu spät warst"),
+ //  Schildkröte = new Word("turtle","Schildkröte (die)","Meine Schildkröte ist nicht sehr sportlich"),
+ //  sportlich = new Word("athletic","sportlich","Meine Schildkröte ist nicht sehr sportlich"),
+//  laufen = new Word("to run","laufen","sie läuft jeden tag"),
+//  Wochenende = new Word("weekend","Wochenende (das)","Ich laufe jedes Wochenende"),
+//  fast = new Word("nearly/almost","fast","er hat mich fast geschlagen"),
+//  waschen = new Word("to wash","waschen","Musst du diese Socken noch waschen"),
+//  Kleidung = new Word("clothes","Kleidung",""),
+//  meer = new Word("sea","meer","das meer ist ruhig"),
+//  Badeanzug = new Word("swimsuit","Badeanzug","Welchen Badeanzug möchten Sie kaufen?"),
 
 
   
@@ -42,6 +60,7 @@ bleiben = new Word("to stay","bleiben","Ich bleibe bei meiner Mutter"),
   Blumen = new Word("flowers","Blumen","Ich liebe diese Blumen"),
  Bluse = new Word("blouse","Bluse (die)","meine Bluse ist schön"),
 //  Büch = new Word("book","Büch (das)","Ich liebe alte Bücher"),
+// brauchen  = new Word("to need","brauchen","ich brauche es"),
   Brot= new Word("bread","Brot","ich esse Brot"),
   Büro = new Word("office","Büro","Mein Büro ist neben dem Bahnhof"),
   danach= new Word("thereafter","danach","danach habe ich aufgehört mit ihr zu reden"),
