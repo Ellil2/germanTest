@@ -6,7 +6,7 @@
  
  
  var wordList = [
-  = new Word("","",""),
+ //= new Word("","",""),
 
 
  als = new Word("than","als","Ich mag dich mehr als ihn"),
